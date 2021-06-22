@@ -1,0 +1,2 @@
+# HR-Analysis-and-Attrition-PredictionIBM-Dataset-Kaggle
+- Help companies to be prepared for future employee-loss  - Evaluating possible trends and  reasons for employee attrition, in order to prevent valuable employees from leaving.  - We analyzed the numeric and categorical data with the use of Machine Learning models to identify the main variables contributing to the attrition of employees  - This project was completed and carried out by three DSAI students Angelin Grace Wijaya, Agarwala Pratham, Krishna Shivangi
