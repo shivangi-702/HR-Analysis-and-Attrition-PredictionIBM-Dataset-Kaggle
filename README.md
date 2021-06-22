@@ -1,6 +1,6 @@
 # HR-Analysis-and-Attrition-PredictionIBM-Dataset-Kaggle
 
-# Project done by Angelin Grace Vijaya, Pratham Agarwala, Shivangi Krishna.
+Project done by Angelin Grace Vijaya, Pratham Agarwala, Shivangi Krishna.
 
 # About the project
 - Help companies to be prepared for future employee-loss  
@@ -9,11 +9,11 @@
 - This project was completed and carried out by three DSAI students Angelin Grace Wijaya, Agarwala Pratham, Krishna Shivangi
 
 # Dataset Source:
-Kaggle Dataset by pavansubhash
-Fictional dataset created by IBM data scientists
-Contains 35 columns and 1470 records
-No missing values
-Source : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+- Kaggle Dataset by pavansubhash
+- Fictional dataset created by IBM data scientists
+- Contains 35 columns and 1470 records
+- No missing values
+- Source : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 # Acknowledgement
 Thnak you to Dr. Sourav Sen Gupta for suuporting all the way and introducing us to this oppertunity. We applied the knowledge gained from classes to produce this report and group project.
