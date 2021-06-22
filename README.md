@@ -1,6 +1,6 @@
 # HR-Analysis-and-Attrition-PredictionIBM-Dataset-Kaggle
 
-Project done by Angelin Grace Vijaya, Pratham Agarwala, Shivangi Krishna.
+Project done by Angelin Grace Wijaya, Pratham Agarwala, Shivangi Krishna.
 
 # About the project
 - Help companies to be prepared for future employee-loss  
