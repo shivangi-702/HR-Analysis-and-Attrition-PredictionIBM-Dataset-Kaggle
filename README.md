@@ -16,7 +16,7 @@ Project done by Angelin Grace Vijaya, Pratham Agarwala, Shivangi Krishna.
 - Source : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 # Acknowledgement
-Thnak you to Dr. Sourav Sen Gupta for suuporting all the way and introducing us to this oppertunity. We applied the knowledge gained from classes to produce this report and group project.
+Thnak you to Dr. Sourav Sen Gupta for supporting us all the way and introducing us to this oppertunity. We applied the knowledge gained from classes to produce this report and group project.
 
 # License
 https://choosealicense.com/licenses/mit/License
